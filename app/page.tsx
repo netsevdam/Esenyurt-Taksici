@@ -31,7 +31,7 @@ export default function Home() {
           
           {/* Box 3 */}
           <div className="bg-white dark:bg-gray-800 p-6 rounded-lg shadow-md">
-            <h3 className="text-xl font-semibold mb-3 dark:text-white">Esenyurt Özel Servis</h3>
+            <h3 className="text-xl font-semibold mb-3 dark:text-white">Esenyurt Korsan Taksi</h3>
             <p className="text-gray-600 dark:text-gray-300 mb-4">
               Esenyurt bölgesinde güvenilir ve ekonomik korsan taksi alternatifleri.
             </p>
@@ -48,7 +48,7 @@ export default function Home() {
         <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
           {/* Box 1 */}
           <div className="bg-white dark:bg-gray-800 p-6 rounded-lg shadow-md">
-            <h3 className="text-xl font-semibold mb-3 dark:text-white">Mavi Taksi ile Transfer</h3>
+            <h3 className="text-xl font-semibold mb-3 dark:text-white">Mavi Korsan Taksi</h3>
             <p className="text-gray-600 dark:text-gray-300 mb-4">
               Sabiha Gökçen Havalimanı'na özel uygun fiyatlı korsan taksi çözümleri.
             </p>
@@ -59,7 +59,7 @@ export default function Home() {
           
           {/* Box 2 */}
           <div className="bg-white dark:bg-gray-800 p-6 rounded-lg shadow-md">
-            <h3 className="text-xl font-semibold mb-3 dark:text-white">İstanbul Genel Servis</h3>
+            <h3 className="text-xl font-semibold mb-3 dark:text-white">İstanbul Korsan Taksi</h3>
             <p className="text-gray-600 dark:text-gray-300 mb-4">
               Sabiha Gökçen Havalimanı transferleri için ekonomik korsan taksi alternatifleri.
             </p>
@@ -70,7 +70,7 @@ export default function Home() {
           
           {/* Box 3 */}
           <div className="bg-white dark:bg-gray-800 p-6 rounded-lg shadow-md">
-            <h3 className="text-xl font-semibold mb-3 dark:text-white">Esenyurt Özel Transfer</h3>
+            <h3 className="text-xl font-semibold mb-3 dark:text-white">Esenyurt Korsan Taksi</h3>
             <p className="text-gray-600 dark:text-gray-300 mb-4">
               Sabiha Gökçen'e Esenyurt'tan özel korsan taksi hizmeti.
             </p>
@@ -87,7 +87,7 @@ export default function Home() {
         <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
           {/* Box 1 */}
           <div className="bg-white dark:bg-gray-800 p-6 rounded-lg shadow-md">
-            <h3 className="text-xl font-semibold mb-3 dark:text-white">Hadımköy Servisi</h3>
+            <h3 className="text-xl font-semibold mb-3 dark:text-white">Hadımköy Korsan Taksi</h3>
             <p className="text-gray-600 dark:text-gray-300 mb-4">
               Hadımköy bölgesinde güvenilir ve uygun fiyatlı korsan taksi çözümleri.
             </p>
@@ -98,7 +98,7 @@ export default function Home() {
           
           {/* Box 2 */}
           <div className="bg-white dark:bg-gray-800 p-6 rounded-lg shadow-md">
-            <h3 className="text-xl font-semibold mb-3 dark:text-white">Mahmutbey Servisi</h3>
+            <h3 className="text-xl font-semibold mb-3 dark:text-white">Mahmutbey Korsan Taksi</h3>
             <p className="text-gray-600 dark:text-gray-300 mb-4">
               Mahmutbey ve çevresinde ekonomik korsan taksi hizmetleri.
             </p>
@@ -109,7 +109,7 @@ export default function Home() {
           
           {/* Box 3 */}
           <div className="bg-white dark:bg-gray-800 p-6 rounded-lg shadow-md">
-            <h3 className="text-xl font-semibold mb-3 dark:text-white">Nişantaşı Servisi</h3>
+            <h3 className="text-xl font-semibold mb-3 dark:text-white">Nişantaşı Korsan Taksi</h3>
             <p className="text-gray-600 dark:text-gray-300 mb-4">
               Nişantaşı bölgesinde lüks ve konforlu korsan taksi alternatifleri.
             </p>
